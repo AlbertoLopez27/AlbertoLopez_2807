@@ -1,0 +1,8 @@
+Se entiende por administracion a aquella parte de mi software que conoce 
+todas las aplicaciones existentes en mi computador y puede controlar ciertos
+puntos de la misma,sin necesidad de inmiscuirse directamente,mientras que el
+gestor solo tiene un area de mi computador sobre el cual realizara una
+administracion del area destino,puede un gestor trabajar con otros gestores 
+en conjunto.
+
+
