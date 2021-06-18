@@ -1,0 +1,19 @@
+Tarea_6.c 1 /**Archivo original**/
+
+Hash
+
+8799250f09b725a670f840a4c928d6b128af5dcb
+
+Tarea_6.c 2 /**Archivo con cambios**/
+
+Hash
+
+56332defac214542a260f220cdeb4571dd8fc680 
+
+Tarea_6.c 3 /**Archivo sin cambios**/
+
+Hash
+
+8799250f09b725a670f840a4c928d6b128af5dcb
+
+
